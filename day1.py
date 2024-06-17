@@ -38,3 +38,6 @@ print(list1[2:5])
 print(list1[2:])
 list1=[1,2,3,4,5,6]
 print("End")
+input1=int(input("enter the input1:"))
+input2=int(input("enter the input2:"))
+print(input1+input2)
