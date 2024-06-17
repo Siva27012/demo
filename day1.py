@@ -37,3 +37,4 @@ print(list1[:6])
 print(list1[2:5])
 print(list1[2:])
 list1=[1,2,3,4,5,6]
+print("End")
